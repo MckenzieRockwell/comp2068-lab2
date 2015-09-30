@@ -1,0 +1,18 @@
+{
+  "name": "lab2",
+  "version": "1.0.0",
+  "description": "lab 2 comp2068",
+  "main": "lab2.js",
+  "scripts": {
+    "test": "node lab2.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "comp2068-lab2"
+  },
+  "keywords": [
+    "calculator"
+  ],
+  "author": "McKenzie Rockwell",
+  "license": "ISC"
+}
